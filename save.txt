@@ -1,0 +1,4 @@
+GET [Server]_Data.txt 127.0.0.1
+GET /hypertext/WWW/TheProject.html info.cern.ch 80
+POST [Client]_Data.txt 127.0.0.1
+GET [Server]_Data.txt 127.0.0.1
